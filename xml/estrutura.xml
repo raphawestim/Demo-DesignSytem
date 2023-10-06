@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+
+<curso id="ds000" nome="Design System - Demo">
+	<modulo id="m00" nome="Menu" ignorar="true">
+		<licao id="l00" tipo="menu" nome="Menu">
+			<tela tipo="menu" nome="Menu"></tela>
+		</licao>
+	</modulo>
+
+	<modulo id="m01" nome="Demo">
+		<licao id="l01" tipo="netcurso" nome="Demo">
+			<tela tipo="tela" nome=""></tela>
+		</licao>
+	</modulo>
+</curso>
